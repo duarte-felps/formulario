@@ -32,3 +32,14 @@ function imprimirDados(){
 
 
 
+/* form.addEventListener("click",clique)
+form.addEventListener("mouseenter",mouseEnter)
+
+function clique(){
+    alert('clicou no formulário')
+    form.removeEventListener("mouseenter",mouseEnter)
+}
+function mouseEnter(){
+    alert('Entrou com o mouse') 
+   } 
+    */
